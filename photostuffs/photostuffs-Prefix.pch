@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'photostuffs' target in the 'photostuffs' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
